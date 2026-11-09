@@ -1,0 +1,15 @@
+{
+  "name": "qigong-zuerich",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for the free Qigong (8 Brokate) group in Zürich Albisrieden. Events are synced from a public Google Calendar.",
+  "license": "MIT",
+  "scripts": {
+    "update": "node fetch-events.js && node generate.js",
+    "fetch": "node fetch-events.js",
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "node-ical": "^0.23.0"
+  }
+}
