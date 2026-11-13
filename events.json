@@ -1,20 +1,6 @@
 [
   {
     "name": "Qi Gong mit Timo",
-    "startDate": "2026-11-13T09:00:00+01:00",
-    "endDate": "2026-11-13T09:45:00+01:00",
-    "locationName": "Schopf",
-    "streetAddress": "Altstetterstrasse 334",
-    "addressLocality": "Zürich",
-    "postalCode": "8047",
-    "addressCountry": "CH",
-    "description": "Gemeinsames Qigong praktizieren (Acht Brokate). Kostenlos (Kollekte) und ohne Anmeldung.",
-    "organizer": "Timo",
-    "price": "0",
-    "priceCurrency": "CHF"
-  },
-  {
-    "name": "Qi Gong mit Timo",
     "startDate": "2026-12-04T09:00:00+01:00",
     "endDate": "2026-12-04T09:45:00+01:00",
     "locationName": "Schopf",
@@ -87,6 +73,20 @@
     "name": "Qi Gong mit Timo",
     "startDate": "2027-01-22T09:00:00+01:00",
     "endDate": "2027-01-22T09:45:00+01:00",
+    "locationName": "Schopf",
+    "streetAddress": "Altstetterstrasse 334",
+    "addressLocality": "Zürich",
+    "postalCode": "8047",
+    "addressCountry": "CH",
+    "description": "Gemeinsames Qigong praktizieren (Acht Brokate). Kostenlos (Kollekte) und ohne Anmeldung.",
+    "organizer": "Timo",
+    "price": "0",
+    "priceCurrency": "CHF"
+  },
+  {
+    "name": "Qi Gong mit Timo",
+    "startDate": "2027-01-29T09:00:00+01:00",
+    "endDate": "2027-01-29T09:45:00+01:00",
     "locationName": "Schopf",
     "streetAddress": "Altstetterstrasse 334",
     "addressLocality": "Zürich",
